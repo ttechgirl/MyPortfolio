@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #081238;
 
 	}
 
@@ -2942,7 +2942,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #192553f5;
 		}
 
 			.spotlights > section > .image {
@@ -3004,7 +3004,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #282849;
+				background-color: #122055e7;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
@@ -3118,7 +3118,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #2a2f4a;
+		background-color: #122055e7;
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
 		cursor: default;
 		font-weight: 600;
@@ -3414,7 +3414,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #323266;
+			background-color: #081238;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3489,7 +3489,7 @@ input, select, textarea {
 				}
 		
 				#banner.style2:after {
-					background-color: #311f7e;
+					background-color: #081238;
 				}
 		
 				#banner.style3:after {
@@ -3595,7 +3595,8 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color:#081238;
+		;
 	}
 
 		#main > * {
@@ -3840,6 +3841,7 @@ input, select, textarea {
 			text-align: center;
 			visibility: hidden;
 			width: 18em;
+			
 		}
 
 			#menu .inner > :first-child {
